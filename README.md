@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Digital40
-- 👀 I’m interested in IoT + Analytics, Digital Twin, Simulation, Automation and Machine Learning
-- 🌱 I’m currently learning Graph Analytics
+- 👋 Hi
+- 👀 I’m interested in IoT, PLM, DPP, Digital Twin, Data Spaces, Simulation, Automation and Machine Learning
 
